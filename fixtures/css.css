@@ -1,0 +1,9 @@
+.foo {
+  color: red;
+  font-size: 14px;
+  font-family: serif;
+}
+
+.bar {
+  display: none;
+}
