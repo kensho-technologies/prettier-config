@@ -1,6 +1,6 @@
 {
   "name": "@kensho-technologies/prettier-config",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Shared Prettier config used across Kensho projects",
   "main": "index.js",
   "files": [
