@@ -2,6 +2,5 @@
   "extends": "@kensho-technologies/tsconfig",
   "compilerOptions": {
     "noEmit": true
-  },
-  "exclude": ["./fixtures"]
+  }
 }

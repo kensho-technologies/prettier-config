@@ -1,5 +1,8 @@
-import {foo} from 'foo'
+import {add} from './typescriptreact'
 
-const bar = foo()
+function subtract(a, b) {
+  return add(a, -b)
+}
 
-export default bar
+export const two = add(1, 1)
+export const one = subtract(2, 1)
