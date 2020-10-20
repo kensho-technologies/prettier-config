@@ -1,5 +1,5 @@
 // eslint-disable-next-line import/no-extraneous-dependencies
-import * as React from 'react'
+import {useState} from 'react'
 
 /**
  * Sums two numbers.
@@ -13,7 +13,7 @@ export function add(a: number, b: number): number {
 }
 
 export function Counter(): JSX.Element {
-  const [count, setCount] = React.useState(0)
+  const [count, setCount] = useState(0)
   return (
     <div>
       {count}
