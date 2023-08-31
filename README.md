@@ -1,6 +1,6 @@
 # prettier-config
 
-[![Build Status](https://img.shields.io/github/workflow/status/kensho-technologies/prettier-config/CI/main)](https://github.com/kensho-technologies/prettier-config/actions)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/kensho-technologies/prettier-config/ci.yml?branch=main)](https://github.com/kensho-technologies/prettier-config/actions)
 [![npm](https://img.shields.io/npm/v/@kensho-technologies/prettier-config.svg)](https://npm.im/@kensho-technologies/prettier-config)
 
 Shared config for [Prettier](https://prettier.io).
