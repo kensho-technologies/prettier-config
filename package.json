@@ -21,7 +21,8 @@
   "author": "Kensho Technologies, LLC.",
   "license": "Apache-2.0",
   "peerDependencies": {
-    "prettier": "^3.0.0"
+    "prettier": "^3.0.0",
+    "prettier-plugin-tailwindcss": "^0.5.0"
   },
   "devDependencies": {
     "@babel/core": "^7.22.11",
