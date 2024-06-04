@@ -22,7 +22,7 @@
   "license": "Apache-2.0",
   "peerDependencies": {
     "prettier": "^3.0.0",
-    "prettier-plugin-tailwindcss": "^0.5.0"
+    "prettier-plugin-tailwindcss": "^0.6.0"
   },
   "devDependencies": {
     "@babel/core": "^7.24.6",
