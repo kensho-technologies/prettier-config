@@ -24,13 +24,13 @@
     "prettier": "^3.0.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.22.11",
-    "@kensho-technologies/babel-preset": "^21.0.0",
-    "@kensho-technologies/eslint-config": "^26.1.2",
-    "@kensho-technologies/tsconfig": "^4.0.0",
-    "@types/react": "^18.2.21",
-    "eslint": "^8.48.0",
-    "react": "^18.2.0",
+    "@babel/core": "^7.24.6",
+    "@kensho-technologies/babel-preset": "^22.0.0",
+    "@kensho-technologies/eslint-config": "^27.0.0",
+    "@kensho-technologies/tsconfig": "^5.0.0",
+    "@types/react": "^18.3.3",
+    "eslint": "^8.57.0",
+    "react": "^18.3.1",
     "typescript": "~5.1.6"
   }
 }
