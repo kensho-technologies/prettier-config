@@ -25,8 +25,6 @@
     "prettier-plugin-tailwindcss": "^0.6.0"
   },
   "devDependencies": {
-    "@babel/core": "^7.24.6",
-    "@kensho-technologies/babel-preset": "^22.0.0",
     "@kensho-technologies/eslint-config": "^27.0.0",
     "@kensho-technologies/tsconfig": "^5.0.0",
     "@types/react": "^18.3.3",
